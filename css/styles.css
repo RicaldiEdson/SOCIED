@@ -40,7 +40,7 @@ body.bg-page{
   object-fit: contain;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  background: transparent;
+  
   padding: 1%;
 }
 
@@ -134,6 +134,7 @@ a:focus, button:focus, input:focus, textarea:focus{
   margin-bottom: 0.25rem;
   font-weight: 600;
 }
+
 
 
 
